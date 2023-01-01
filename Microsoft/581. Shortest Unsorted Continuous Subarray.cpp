@@ -62,4 +62,6 @@ public:
 
         return j-left+1;
     }
+    // T.C = O(N);
+    // TC= O(N)+O(N)
 };
